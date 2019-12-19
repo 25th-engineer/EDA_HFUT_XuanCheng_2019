@@ -1,90 +1,88 @@
 Teardrop Report exercise3.PcbDoc
-On 2019/12/18 at 12:50:14
+On 2019/12/20 at 0:13:09
 
 Pads visited                : 74
 
-Vias visited                : 3
+Vias visited                : 1
 
 Pad teardrops failed : 0
 
-Pad Vs1-1(-3695mil,-2105mil) on Multi-Layer
-Pad Vs1-2(-3695mil,-2005mil) on Multi-Layer
-Pad C5-2(-3365mil,-1370mil) on Multi-Layer
-Pad C5-1(-3365mil,-1670mil) on Multi-Layer
-Pad C6-2(-3370mil,-1935mil) on Multi-Layer
-Pad C6-1(-3370mil,-2235mil) on Multi-Layer
-Pad C7-2(-2320mil,-1995mil) on Multi-Layer
-Pad C7-1(-2320mil,-2295mil) on Multi-Layer
-Pad Rf2-1(-870mil,-810mil) on Multi-Layer
-Pad Rf2-2(-1270mil,-810mil) on Multi-Layer
-Pad R2-1(-1490mil,-580mil) on Multi-Layer
-Pad R2-2(-1490mil,-180mil) on Multi-Layer
-Pad Vs-1(-3695mil,-800mil) on Multi-Layer
-Pad Vs-2(-3695mil,-700mil) on Multi-Layer
-Pad U4-1(-1005mil,-1180mil) on Multi-Layer
-Pad U4-2(-1005mil,-1280mil) on Multi-Layer
-Pad U4-3(-1005mil,-1380mil) on Multi-Layer
-Pad U4-4(-1005mil,-1480mil) on Multi-Layer
-Pad U4-8(-705mil,-1180mil) on Multi-Layer
-Pad U4-7(-705mil,-1280mil) on Multi-Layer
-Pad U4-6(-705mil,-1380mil) on Multi-Layer
-Pad U4-5(-705mil,-1480mil) on Multi-Layer
-Pad C3-2(-2250mil,-245mil) on Multi-Layer
-Pad C3-1(-2250mil,-545mil) on Multi-Layer
-Pad C1-2(-1745mil,-980mil) on Multi-Layer
-Pad C1-1(-1745mil,-1280mil) on Multi-Layer
-Pad R6-1(-1655mil,-555mil) on Multi-Layer
-Pad R6-2(-2055mil,-555mil) on Multi-Layer
-Pad R4-1(-615mil,-2095mil) on Multi-Layer
-Pad R4-2(-1015mil,-2095mil) on Multi-Layer
-Pad Vo-1(-200mil,-920mil) on Multi-Layer
-Pad Vo-2(-200mil,-820mil) on Multi-Layer
-Pad R-2(-2040mil,-1185mil) on Multi-Layer
-Pad R-1(-2040mil,-1785mil) on Multi-Layer
-Pad Rf1-1(-2455mil,-850mil) on Multi-Layer
-Pad Rf1-2(-2855mil,-850mil) on Multi-Layer
-Pad C2-2(-1745mil,-1600mil) on Multi-Layer
-Pad C2-1(-1745mil,-1900mil) on Multi-Layer
-Pad R7-1(-1250mil,-1930mil) on Multi-Layer
-Pad R7-2(-1250mil,-1530mil) on Multi-Layer
-Pad R5-1(-630mil,-2270mil) on Multi-Layer
-Pad R5-2(-1030mil,-2270mil) on Multi-Layer
-Pad C4-2(-2260mil,-825mil) on Multi-Layer
-Pad C4-1(-2260mil,-1125mil) on Multi-Layer
-Pad R8-1(-1450mil,-1945mil) on Multi-Layer
-Pad R8-2(-1450mil,-1545mil) on Multi-Layer
-Pad U1-1(-2735mil,-275mil) on Multi-Layer
-Pad U1-2(-2835mil,-275mil) on Multi-Layer
-Pad U1-3(-2935mil,-275mil) on Multi-Layer
-Pad U1-4(-3035mil,-275mil) on Multi-Layer
-Pad U1-5(-3135mil,-275mil) on Multi-Layer
-Pad U1-6(-3235mil,-275mil) on Multi-Layer
-Pad U1-7(-3335mil,-275mil) on Multi-Layer
-Pad U1-14(-2735mil,-575mil) on Multi-Layer
-Pad U1-13(-2835mil,-575mil) on Multi-Layer
-Pad U1-12(-2935mil,-575mil) on Multi-Layer
-Pad U1-11(-3035mil,-575mil) on Multi-Layer
-Pad U1-10(-3135mil,-575mil) on Multi-Layer
-Pad U1-9(-3235mil,-575mil) on Multi-Layer
-Pad U1-8(-3335mil,-575mil) on Multi-Layer
-Pad R1-1(-3095mil,-855mil) on Multi-Layer
-Pad R1-2(-3495mil,-855mil) on Multi-Layer
-Pad R3-1(-2755mil,-1105mil) on Multi-Layer
-Pad R3-2(-3155mil,-1105mil) on Multi-Layer
-Pad Free-1(-3695mil,-2350mil) on Multi-Layer
-Pad Free-13(-3695mil,-200mil) on Multi-Layer
-Pad Free-3(-185mil,-200mil) on Multi-Layer
-Pad Free-2(-185mil,-2350mil) on Multi-Layer
-Pad U3-5(-2969.42mil,-1965mil) on Top Layer
-Pad U3-10(-2570.58mil,-1565mil) on Top Layer
-Pad U3-7(-2570.58mil,-1865mil) on Top Layer
-Pad U3-4(-2968.22mil,-1865mil) on Top Layer
-Pad U3-2(-2969.4mil,-1665mil) on Top Layer
-Pad U3-1(-2968.22mil,-1565mil) on Top Layer
+Pad Vs1-1(200mil,-2105mil) on Multi-Layer
+Pad Vs1-2(200mil,-2005mil) on Multi-Layer
+Pad C5-2(530mil,-1370mil) on Multi-Layer
+Pad C5-1(530mil,-1670mil) on Multi-Layer
+Pad C6-2(525mil,-1935mil) on Multi-Layer
+Pad C6-1(525mil,-2235mil) on Multi-Layer
+Pad C7-2(1575mil,-1995mil) on Multi-Layer
+Pad C7-1(1575mil,-2295mil) on Multi-Layer
+Pad Rf2-1(3025mil,-810mil) on Multi-Layer
+Pad Rf2-2(2625mil,-810mil) on Multi-Layer
+Pad R2-1(2405mil,-580mil) on Multi-Layer
+Pad R2-2(2405mil,-180mil) on Multi-Layer
+Pad Vs-1(200mil,-800mil) on Multi-Layer
+Pad Vs-2(200mil,-700mil) on Multi-Layer
+Pad U4-1(2890mil,-1180mil) on Multi-Layer
+Pad U4-2(2890mil,-1280mil) on Multi-Layer
+Pad U4-3(2890mil,-1380mil) on Multi-Layer
+Pad U4-4(2890mil,-1480mil) on Multi-Layer
+Pad U4-8(3190mil,-1180mil) on Multi-Layer
+Pad U4-7(3190mil,-1280mil) on Multi-Layer
+Pad U4-6(3190mil,-1380mil) on Multi-Layer
+Pad U4-5(3190mil,-1480mil) on Multi-Layer
+Pad C3-2(1645mil,-245mil) on Multi-Layer
+Pad C3-1(1645mil,-545mil) on Multi-Layer
+Pad C1-2(2150mil,-980mil) on Multi-Layer
+Pad C1-1(2150mil,-1280mil) on Multi-Layer
+Pad R6-1(2240mil,-555mil) on Multi-Layer
+Pad R6-2(1840mil,-555mil) on Multi-Layer
+Pad R4-1(3280mil,-2095mil) on Multi-Layer
+Pad R4-2(2880mil,-2095mil) on Multi-Layer
+Pad Vo-1(3695mil,-920mil) on Multi-Layer
+Pad Vo-2(3695mil,-820mil) on Multi-Layer
+Pad R-2(1855mil,-1185mil) on Multi-Layer
+Pad R-1(1855mil,-1785mil) on Multi-Layer
+Pad Rf1-1(1440mil,-850mil) on Multi-Layer
+Pad Rf1-2(1040mil,-850mil) on Multi-Layer
+Pad C2-2(2150mil,-1600mil) on Multi-Layer
+Pad C2-1(2150mil,-1900mil) on Multi-Layer
+Pad R7-1(2645mil,-1930mil) on Multi-Layer
+Pad R7-2(2645mil,-1530mil) on Multi-Layer
+Pad R5-1(3265mil,-2270mil) on Multi-Layer
+Pad R5-2(2865mil,-2270mil) on Multi-Layer
+Pad C4-2(1635mil,-825mil) on Multi-Layer
+Pad C4-1(1635mil,-1125mil) on Multi-Layer
+Pad R8-1(2445mil,-1945mil) on Multi-Layer
+Pad R8-2(2445mil,-1545mil) on Multi-Layer
+Pad U1-1(1160mil,-275mil) on Multi-Layer
+Pad U1-2(1060mil,-275mil) on Multi-Layer
+Pad U1-3(960mil,-275mil) on Multi-Layer
+Pad U1-4(860mil,-275mil) on Multi-Layer
+Pad U1-5(760mil,-275mil) on Multi-Layer
+Pad U1-6(660mil,-275mil) on Multi-Layer
+Pad U1-7(560mil,-275mil) on Multi-Layer
+Pad U1-14(1160mil,-575mil) on Multi-Layer
+Pad U1-13(1060mil,-575mil) on Multi-Layer
+Pad U1-12(960mil,-575mil) on Multi-Layer
+Pad U1-11(860mil,-575mil) on Multi-Layer
+Pad U1-10(760mil,-575mil) on Multi-Layer
+Pad U1-9(660mil,-575mil) on Multi-Layer
+Pad U1-8(560mil,-575mil) on Multi-Layer
+Pad R1-1(800mil,-855mil) on Multi-Layer
+Pad R1-2(400mil,-855mil) on Multi-Layer
+Pad R3-1(1140mil,-1105mil) on Multi-Layer
+Pad R3-2(740mil,-1105mil) on Multi-Layer
+Pad Free-1(200mil,-2350mil) on Multi-Layer
+Pad Free-4(200mil,-200mil) on Multi-Layer
+Pad Free-3(3710mil,-200mil) on Multi-Layer
+Pad Free-2(3710mil,-2350mil) on Multi-Layer
+Pad U3-5(925.58mil,-1965mil) on Top Layer
+Pad U3-10(1324.42mil,-1565mil) on Top Layer
+Pad U3-7(1324.42mil,-1865mil) on Top Layer
+Pad U3-4(926.78mil,-1865mil) on Top Layer
+Pad U3-2(925.6mil,-1665mil) on Top Layer
+Pad U3-1(926.78mil,-1565mil) on Top Layer
 
 Via teardrops failed : 0
 
-Via (-2163mil,-140mil) from Top Layer to Bottom Layer
-Via (-3693mil,-1933mil) from Top Layer to Bottom Layer
-Via (-1965mil,-757mil) from Top Layer to Bottom Layer
+Via (1841mil,-140mil) from Top Layer to Bottom Layer
 
