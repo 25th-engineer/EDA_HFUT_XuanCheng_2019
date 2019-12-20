@@ -86,11 +86,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=SSBBCGMA
-
-[GeneratedDocument1]
-DocumentPath=Project Outputs for dzsx\Design Rule Check - exercise3.html
-DItemRevisionGUID=
+DocumentUniqueId=
 
 [Configuration1]
 Name=Sources
